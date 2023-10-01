@@ -9,7 +9,7 @@ I am a Business Analytics Masters graduate from UC Davis with <b>5</b> years of 
 
 ### Professional Highlights:
 
-- 🚀 Proficiency in Data Analytics, Data Exploration, Solution Design, BI Reports/Dashboards
+- 🚀 Proficiency in Machine Learning, Data Analytics, Data Exploration, Solution Design, BI Reports/Dashboards
 - 💡 Worked on Customer Segmentation, Voice of Customer, CRM, Anomaly Detection, and Salesforce Optimization use cases
 - 💬 3 years of Project management experience, along with stakeholder management responsibilities
 - 🎓 Received multiple impact Awards at ZS (Top 5 %ile) & nominated for Beta Gamma Sigma membership (Ranked in Top 20 %ile)
