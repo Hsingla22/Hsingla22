@@ -4,12 +4,20 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I am a Business Analytics Masters graduate from UC Davis with <b>5<b> years of work experience in the Business Intelligence and Data Analytics domain. I am passionate about leveraging data to drive impactful business decisionsthat drive positive change for my organization.
-
+I am a Business Analytics Masters graduate from UC Davis with <b>5</b> years of work experience with ZS Associates (Management Consulting firm) in the Business Intelligence and Data Analytics domain. I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions.
 </br>
-I am currently on the lookout for exciting opportunities as a Data Scientist or Data Analyst, and I am eager to explore potential opportunities. If you are interested in learning more about my experience and expertise or discussing potential job openings, please do not hesitate to reach out to me.
 
-- 📫 You can reach me on: hsingla@ucdavis.edu
+### Professional Highlights:
+
+- 🚀 Proficiency in Data Analytics, Data Exploration, Solution Design, BI Reports/Dashboards
+- 💡 Worked on Customer Segmentation, Voice of Customer, CRM, Anomaly Detection, and Salesforce Optimization use cases
+- 💬 3 years of Project management experience, along with stakeholder management responsibilities
+- 🎓 Received multiple impact Awards at ZS (Top 5 %ile) & nominated for Beta Gamma Sigma membership (Ranked in Top 20 %ile)
+- 👾 Currently exploring Transformers and Stable Diffusion.
+  
+I am actively seeking exciting opportunities in the Data Science/Analytics field and am enthusiastic about exploring potential roles. If you would like to learn more about my experience and skills or discuss potential job opportunities, please feel free to get in touch with me.
+
+- 📫 You can reach me at: hanishsingla22@gmail.com
 
 
 ### Languages and Tools:
