@@ -3,13 +3,13 @@
 
 a Business Analytics Masters graduate from UC Davis and experienced Business intelligence, I am passionate about leveraging data to drive impactful business decisions. I am passionate about using data to derive business insights and harness the power of randomized experiments to create innovative solutions that drive positive change for my organization.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sripriya-srini/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hanishsingla22/)
 
 - 🎓 I am an MS in Business Analytics graduate from UC Davis with work authorization in the United States
 </br>
 I am currently on the lookout for exciting opportunities as a Data Scientist or Data Analyst, and I am eager to explore potential opportunities. If you are interested in learning more about my experience and expertise or discussing potential job openings, please do not hesitate to reach out to me.
 
-- 📫 You can reach me on : hsingla@ucdavis.edu
+- 📫 You can reach me on: hsingla@ucdavis.edu
 
 
 ### Languages and Tools:
