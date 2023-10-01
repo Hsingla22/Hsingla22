@@ -1,18 +1,16 @@
 ### Hi there I am <a href="https://sripriya97.github.io/" target="_blank">Hanish</a>  👋
 
 
-a Business Analytics Masters graduate from UC Davis and experienced Full Stack Developer with hands-on experience in Core Java and React framework, I am passionate about leveraging data to drive impactful business decisions. I am passionate about using data to derive business insights and harness the power of randomized experiments to create innovative solutions that drive positive change for my organization.
+a Business Analytics Masters graduate from UC Davis and experienced Business intelligence, I am passionate about leveraging data to drive impactful business decisions. I am passionate about using data to derive business insights and harness the power of randomized experiments to create innovative solutions that drive positive change for my organization.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sripriya-srini/)
 
 - 🎓 I am an MS in Business Analytics graduate from UC Davis with work authorization in the United States
-- 👩🏻‍💻 I worked as a Full Stack Developer for Natwest Group Plc.
-- 📚 I did my bachelor's in engineering with a major in Electronic and Communication from Anna University, India
 </br>
 I am currently on the lookout for exciting opportunities as a Data Scientist or Data Analyst, and I am eager to explore potential opportunities. If you are interested in learning more about my experience and expertise or discussing potential job openings, please do not hesitate to reach out to me.
 
-- 📫 You can reach me on : srisrinivasan@ucdavis.edu
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1zZlsqnMQKKeJMCW7N-AkfLSmt1Uuv9cX/view?usp=sharing).
+- 📫 You can reach me on : hsingla@ucdavis.edu
+
 
 ### Languages and Tools:
 <p align="left">
@@ -31,9 +29,4 @@ I am currently on the lookout for exciting opportunities as a Data Scientist or 
   
   
 
-### My Github Stats:
-<br>
-<p align = "center">
-<img height = "250rem" src = "https://github-readme-stats.vercel.app/api?username=sripriya97&show_icons=true&include_all_commits=true&count_private=true&line_height=40">
-<img height = "250rem" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sripriya97">
-</p>
+
