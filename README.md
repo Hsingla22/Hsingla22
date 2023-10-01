@@ -1,9 +1,12 @@
-### Hi there I am <a href="https://sripriya97.github.io/" target="_blank">Hanish</a>  👋
-
-
-a Business Analytics Masters graduate from UC Davis and experienced Business intelligence, I am passionate about leveraging data to drive impactful business decisions. I am passionate about using data to derive business insights and harness the power of randomized experiments to create innovative solutions that drive positive change for my organization.
+## Hey there 👋, I'm [Hanish!](https://github.com/Hsingla22/Hsingla22)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hanishsingla22/)
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+
+I am a Business Analytics Masters graduate from UC Davis and experienced Business intelligence, I am passionate about leveraging data to drive impactful business decisions. I am passionate about using data to derive business insights and harness the power of randomized experiments to create innovative solutions that drive positive change for my organization.
+
+
 
 - 🎓 I am an MS in Business Analytics graduate from UC Davis with work authorization in the United States
 </br>
