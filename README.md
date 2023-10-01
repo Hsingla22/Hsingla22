@@ -4,11 +4,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I am a Business Analytics Masters graduate from UC Davis and experienced Business intelligence, I am passionate about leveraging data to drive impactful business decisions. I am passionate about using data to derive business insights and harness the power of randomized experiments to create innovative solutions that drive positive change for my organization.
+I am a Business Analytics Masters graduate from UC Davis with <b>5<b> years of work experience in the Business Intelligence and Data Analytics domain. I am passionate about leveraging data to drive impactful business decisionsthat drive positive change for my organization.
 
-
-
-- 🎓 I am an MS in Business Analytics graduate from UC Davis with work authorization in the United States
 </br>
 I am currently on the lookout for exciting opportunities as a Data Scientist or Data Analyst, and I am eager to explore potential opportunities. If you are interested in learning more about my experience and expertise or discussing potential job openings, please do not hesitate to reach out to me.
 
